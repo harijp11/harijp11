@@ -10,7 +10,7 @@
 - 📫 Reach me via:  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/harisagar-j-s-7a0b5431b/)  
   - 📬 Email: `harijayaprakash10@gmail.com` 
-- 😄 Pronouns: **He/Him**  
+
 
 
 
