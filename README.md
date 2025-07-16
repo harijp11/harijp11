@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Harisagar J S ([@harijp11](https://github.com/harijp11))
 
-<p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=harijp11&txt=Full‑Stack%20Dev%20%7C%20MERN&bg=0d1117&fill=58a6ff" alt="Live Dynamic Banner" />
-</p>
+
+![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 🎯 **About Me**
