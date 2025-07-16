@@ -16,11 +16,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://github.com/harijp11/harijp11/assets/122845228/d345e36b-147e-43f5-93d5-3240f4733cfe" width="400" alt="Developer at work animation" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,nginx,html,css,tailwind,docker,git,github,vscode,figma" />
+  <img src="https://raw.githubusercontent.com/harijp11/harijp11/main/assets/coding-modern.gif" width="500" alt="Modern Developer Animation" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
