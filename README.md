@@ -3,7 +3,6 @@
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 🎯 **About Me**
-
 - 👀 I’m interested in **web development, competitive programming, and cloud technologies**  
 - 🌱 I’m currently learning **React, Next.js, and preparing for DSA interviews**  
 - 💞️ I’m looking to collaborate on **open-source frontend/backend projects**  
