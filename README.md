@@ -9,11 +9,10 @@
 - 💞️ I’m looking to collaborate on **open-source frontend/backend projects**  
 - 📫 Reach me via:  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/harisagar-j-s-7a0b5431b/)  
-  - 📬 Email: `your-email@example.com` (replace with your real email)  
+  - 📬 Email: `harijayaprakash10@gmail.com` 
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I solve at least **one Leetcode problem** every day!
 
----
+
 
 ### 🧰 Tech Stack
 
