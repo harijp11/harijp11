@@ -37,8 +37,8 @@
          alt="Gin" width="40" height="40"/>
   </a>
 <a href="https://gorm.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GORM-ORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-       alt="GORM" height="40"/>
+  <img src="https://img.shields.io/badge/GORM-00ADD8?style=flat-square&logo=go&logoColor=white"
+       alt="GORM" height="28"/>
 </a>
 
   <!-- JavaScript and TypeScript -->
