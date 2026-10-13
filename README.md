@@ -36,10 +36,10 @@
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
          alt="Gin" width="40" height="40"/>
   </a>
-  <a href="https://gorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/go-gorm/gorm.io/master/static/img/logo.png"
-         alt="GORM" width="40" height="40"/>
-  </a>
+ <a href="https://gorm.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gorm/gorm-original.svg"
+       alt="GORM" width="40" height="40"/>
+</a>
 
   <!-- JavaScript and TypeScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
