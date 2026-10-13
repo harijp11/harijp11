@@ -34,7 +34,7 @@
   </a>
   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
-         alt="Gin" width="40" height="40"/>
+         alt="Gin" width="40" />
   </a>
 <a href="https://gorm.io/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GORM-ORM-00ADD8?style=flat&logo=go&logoColor=white"
