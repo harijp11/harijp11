@@ -38,7 +38,7 @@
   </a>
 <a href="https://gorm.io/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GORM-ORM-00ADD8?style=flat&logo=go&logoColor=white"
-       alt="GORM" height="28"/>
+       alt="GORM" height="40"/>
 </a>
 
   <!-- JavaScript and TypeScript -->
