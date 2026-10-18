@@ -166,7 +166,7 @@
 ### 📊 LeetCode Stats
 
 [![LeetCode](https://leetcard.jacoblin.cool/hari_jp17?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/hari_jp17/)
-![LeetCode Languages](https://github-profile-summary-cards-peach-pi.vercel.app/api/cards/problems-per-language?username=hari_jp17&theme=tokyonight)
+![LeetCode Languages](https://github-profile-summary-cards-peach-pi.vercel.app/api/cards/problems-per-language?username=hari_jp17&theme=github_dark)
 
 
 ---
